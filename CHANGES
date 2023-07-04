@@ -1,3 +1,7 @@
+= 1.2.1-ma (2023-07-04)
+
+* Fix allow invalid ssl certificates
+
 = 1.2.1 (2013-04-18)
 
  * Add `allowsInvalidSSLCertificate` property to `AFURLConnectionOperation` and
