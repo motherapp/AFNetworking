@@ -24,6 +24,7 @@
 
 #import <Availability.h>
 
+#define _AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES_ 1
 /**
  `AFURLConnectionOperation` is a subclass of `NSOperation` that implements `NSURLConnection` delegate methods.
 
